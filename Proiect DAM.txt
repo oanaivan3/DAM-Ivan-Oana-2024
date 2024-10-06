@@ -1,0 +1,13 @@
+Ivan Oana-Georgiana
+Seria D, Grupa 1093
+
+Aplicație pentru înscrierea la un campionat de baschet
+
+Posibile ecrane din aplicatie: 
+-Home
+-LogIn
+-Formular de înscriere 
+-Pagina de profil 
+
+
+
